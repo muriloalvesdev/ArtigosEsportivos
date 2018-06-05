@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pim3Semestre(Original)", "Pim3Semestre(Original)\Pim3Semestre(Original).csproj", "{55FD66F8-B568-4431-A03B-C233985D3503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55FD66F8-B568-4431-A03B-C233985D3503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55FD66F8-B568-4431-A03B-C233985D3503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55FD66F8-B568-4431-A03B-C233985D3503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55FD66F8-B568-4431-A03B-C233985D3503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {537EDB9E-DA6C-4B44-8B38-4694C4A3DA85}
+	EndGlobalSection
+EndGlobal
